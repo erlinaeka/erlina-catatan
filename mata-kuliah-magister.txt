@@ -1,3 +1,4 @@
 Mata Kuliah yang akan diambil :
 * Sistem Informasi Enterprise (SIE)
 * Akuisisi Data dan Diseminasi Informasi (ADDI)
+* Manajemen Sistem Informasi (MSI)
