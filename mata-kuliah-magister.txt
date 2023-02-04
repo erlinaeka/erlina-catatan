@@ -4,3 +4,7 @@ Mata Kuliah yang akan diambil :
 * Manajemen Sistem Informasi (MSI)
 * Integrasi Data
 * Data Mining
+* Rekayasa Data dan Intelegensi Bisnis (RDIB)
+  ^ Struktur Data Lanjutan
+* Infrastruktur dan Keamanan Teknologi Informasi (IKTI)
+
