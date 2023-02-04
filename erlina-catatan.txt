@@ -6,3 +6,5 @@ Catatan Erlina Eka Fitriani
 - Mata Kuliah :
   - Basis Data
   - Jaringan Komputer
+  - Management Supply Chain
+  - Kapita Selekta Sistem Informasi
