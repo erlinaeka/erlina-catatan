@@ -2,8 +2,9 @@ Mata Kuliah yang akan diambil :
 * Sistem Informasi Enterprise (SIE)
 * Akuisisi Data dan Diseminasi Informasi (ADDI)
 * Manajemen Sistem Informasi (MSI)
+* Integrasi Data
+* Data Mining
 * Rekayasa Data dan Intelegensi Bisnis (RDIB)
   ^ Struktur Data Lanjutan
-  ^ Rekayasa Ulang Proses Bisnis
 * Infrastruktur dan Keamanan Teknologi Informasi (IKTI)
 
