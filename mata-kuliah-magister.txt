@@ -3,4 +3,7 @@ Mata Kuliah yang akan diambil :
 * Akuisisi Data dan Diseminasi Informasi (ADDI)
 * Manajemen Sistem Informasi (MSI)
 * Rekayasa Data dan Intelegensi Bisnis (RDIB)
+  ^ Struktur Data Lanjutan
+  ^ Rekayasa Ulang Proses Bisnis
 * Infrastruktur dan Keamanan Teknologi Informasi (IKTI)
+
